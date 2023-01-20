@@ -77,7 +77,7 @@ On additional branches, you can make edits without impacting the `main` version.
 6. Move on to Step 2!<br>
    **Note**: If you made a public repository, and want to confirm you correctly set up your first branch, wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically close this step and open the next one.
 
-</details>
+</details>>>>>>
 
 <!-- 
   <<< Author notes: Step 2 >>>
